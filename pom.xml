@@ -4,7 +4,7 @@
 
     <groupId>com.2808proxy</groupId>
     <artifactId>proxy2808-api</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <url>https://github.com/proxy2808/proxy-client</url>
