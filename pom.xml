@@ -4,7 +4,7 @@
 
     <groupId>com.2808proxy</groupId>
     <artifactId>proxy2808-api</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <url>https://github.com/proxy2808/proxy-client</url>
@@ -21,7 +21,7 @@
         <connection>scm:git:https://github.com/proxy2808/proxy-client.git</connection>
         <developerConnection>scm:git:https://github.com/proxy2808/proxy-client.git</developerConnection>
         <url>https://github.com/proxy2808/proxy-client</url>
-        <tag>proxy2808-api-1.0.3</tag>
+        <tag>proxy2808-api-1.0.1</tag>
     </scm>
 
     <distributionManagement>
